@@ -1,113 +1,92 @@
-胖东来
-于东来
+# ============================================================
+# 🇨🇳 中文側輿情監控 - 網紅行銷 & AI 版塊
+# Brian Wu / MocaBrian - 更新於 2026-04-01
+# ============================================================
 
-DeepSeek
-梁文锋
+# === 板塊1：網紅行銷 & KOL ===
+網紅
+KOL
++行銷
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+KOL
+帶貨
++直播
 
-比亚迪
-王传福
+TikTok
+抖音
++政策
+!廣告
 
-大疆
-DJI
+小紅書
+種草
++行銷
 
-宇树
-王兴兴
+網紅
++東南亞
 
-智元
-灵犀
-稚晖君
-彭志辉
+網紅
++印度
 
-黑神话
-冯骥
+# === 板塊2：社交電商 & 平台 ===
+TikTok Shop
+直播帶貨
+電商
 
-影之刃零
-梁其伟
+Instagram
++創作者
 
-哪吒
-饺子
-杨宇
-!车
-!餐
+YouTube
++創作者
 
-三体
-流浪地球
-刘慈欣
-郭帆
+# === 板塊3：MMP & 效果行銷 ===
+AppsFlyer
 
-申奥
+Adjust
++歸因
 
-京东
-刘强东
+Branch
++深度連結
 
-字节
-bytedance
-张一鸣
+# === 板塊4：AI Agent & 科技 ===
+AI
++agent
+!課程
+!培訓
 
-特斯拉
-马斯克
+AI Agent
 
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
+Claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
+Gemini
+Google
+
+OpenAI
+ChatGPT
+
+大模型
++最新
+
+# === 原有熱門關鍵詞（保留）===
+DeepSeek
+梁文錋
+
+華為
+鴻蒙
+HarmonyOS
+
+比亞迪
+
+字節
+bytedance
+
+英偉達
+NVIDIA
+黃仁勳
 
 ai
-!gai
 人工智能
 
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
 芯片
-光刻机
 
 科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
